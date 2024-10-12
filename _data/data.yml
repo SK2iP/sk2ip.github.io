@@ -15,7 +15,7 @@ sidebar:
     phone: +98 910 116 9066
     timezone: Iran/Tehran
     website: sk2ip.github.io
-    linkedin: sadra-khanjari
+    linkedin: sadra-khanjari-b48553176
     github: SK2iP
 
     languages:
@@ -106,7 +106,7 @@ publications:
         conference: RoboCup
         time: June 2024
 
-skills:
+skills2:
     title: Technical Skills & Proficiency
     toolset:
       - name: Programming Languages
@@ -123,6 +123,7 @@ skills:
         subnames: Ubuntu, Windows
       - name: Technologies and Frameworks
         subnames: Django, Git, GitLAB, Docker, Robot-Framework , Ansible , Arduino
+
 certifications:
     title: Certifications
     list:
