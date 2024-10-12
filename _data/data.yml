@@ -1,6 +1,6 @@
 sidebar:
     position: right
-    about: True
+    about: false
     education: True
 
     # Profile information
@@ -15,7 +15,7 @@ sidebar:
     phone: +98 910 116 9066
     timezone: Iran/Tehran
     website: sk2ip.github.io
-    linkedin: Sadra-Khanjari
+    linkedin: sadra-khanjari
     github: SK2iP
 
     languages:
@@ -68,7 +68,7 @@ experiences:
         details: |
           Assisted in implementing cloud-based solutions and managed IT infrastructure for optimized performance and security.
       - role: Technical Committee Member
-        event: IranOpen Robotics Competition
+        company: IranOpen Robotics Competition
         time: May 2022 - Present
         details: |
           Participated in organizing and evaluating the national robotics competition, focusing on algorithms challenges.
@@ -82,15 +82,15 @@ projects:
         - title: RCSS.ir 
           tagline: A platform for the Iranian RoboCup community
           details: |
-            Developed a platform for the Iranian RoboCup community to share resources, tutorials, and news.
+            - Developed a platform for the Iranian RoboCup community to share resources, tutorials, and news.
         - title: CLSframework
           tagline: A gRPC/thrift based framework for Soccer Simulation 2D teams
           details: |
-            This project is a framework for developing Soccer Simulation 2D teams using gRPC and Thrift for pepople who want to develop their own team in other languages than C++.
+            - This project is a framework for developing Soccer Simulation 2D teams using gRPC and Thrift for pepople who want to develop their own team in other languages than C++.
         - title: StarterAgent2D-V2 Base
           tagline: A base code for students in Soccer Simulation 2D teams
           details: |
-            Developed a base code for Soccer Simulation 2D student teams to help new teams get started with the RoboCup competition.
+            - Developed a base code for Soccer Simulation 2D student teams to help new teams get started with the RoboCup competition.
 
 
 publications:
@@ -98,13 +98,13 @@ publications:
     papers:
       - title: Pyrus 2023 Team Description Paper
         conference: Iran Open
-        date: May 2023
+        time: May 2023
       - title: Tehran2D Team Description Paper
         conference: RoboCup
-        date: August 2022
+        time: August 2022
       - title: Observation Denoising in CYRUS Soccer Simulation 2D Team For RoboCup 2024
         conference: RoboCup
-        date: June 2024
+        time: June 2024
 
 skills:
     title: Technical Skills & Proficiency
@@ -138,7 +138,7 @@ certifications:
       - name: Technical Committee Certification
         organization: Iran Open
         date: May 2024
-      - name: Data Science and Machine Learning Bootcamp
+      - name: Date and Time in Python
         organization: 365 Data Science
         date: July 2024
       - name: Data Cleaning and Preprocessing with pandas
