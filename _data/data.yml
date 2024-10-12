@@ -15,7 +15,7 @@ sidebar:
     phone: +98 910 116 9066
     timezone: Iran/Tehran
     website: sk2ip.github.io
-    linkedin: sadra-khanjari-b48553176
+    linkedin: sadra-khanjari
     github: SK2iP
 
     languages:
@@ -107,22 +107,29 @@ publications:
         time: June 2024
 
 skills2:
-    title: Technical Skills & Proficiency
+    title: Skills &amp; Proficiency
+
     toolset:
       - name: Programming Languages
-        subname: Python, C++,C, Java, JavaScript
+        subnames: Python, C++, C, CSS, HTML, JavaScript
+
       - name: Data Base
-        subname: MySQL
-      - name: Embedded C/C++
-        level: 70%
+        subnames: MySQL
+
       - name: Artificial Intelligent Concepts
         subnames: Deep Learning, Deep Reinforcement Learning
+
       - name: Machine Learning Frameworks
-        subnames: Keras, Tensorflow , Stable Baselines3 , Pandas, NumPy 
+        subnames: Keras, Tensorflow, Stable Baselines3, Pandas, NumPy
+
       - name: OS
         subnames: Ubuntu, Windows
+
       - name: Technologies and Frameworks
-        subnames: Django, Git, GitLAB, Docker, Robot-Framework , Ansible , Arduino
+        subnames: Django, Git, GitLAB, Docker, Robot-Framework, Ansible, Arduino
+
+      - name: Integrated development environment (IDE)
+        subnames: PyCharm, CLion, VSCode, QT Creator, R Studio, MATLAB
 
 certifications:
     title: Certifications
