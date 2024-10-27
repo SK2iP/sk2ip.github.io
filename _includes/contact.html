@@ -112,7 +112,13 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="https://{{ sidebar.pdf }}" target="_blank">Short PDF File</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.pdf2 %}
+    <li class="pdf"><i class="fas fa-file-pdf"></i>
+      <a href="https://{{ sidebar.pdf2 }}" target="_blank">PDF file of this website</a>
     </li>
     {% endif %}
 
