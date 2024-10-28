@@ -189,7 +189,7 @@ skills2:
     title: Skills &amp; Proficiency
     toolset:
       - name: Programming Languages
-        subnames: Python, C++, C, CUDA, Java, CSS, HTML, Javascript , Verilog , Assembely
+        subnames: Python, C++, C, CUDA, Java, CSS, HTML, Javascript , Go , Verilog , Assembely
       - name: Data Base
         subnames: MySQL
       - name: Artificial Intelligent Concepts
